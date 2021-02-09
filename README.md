@@ -1,1 +1,1 @@
-# find-the-ghost-2
+# PROC41-Template
